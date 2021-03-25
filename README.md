@@ -1,7 +1,7 @@
 # OneLiner-Reverse-Shell-Injection
 Inject OneLiner Reverse Shell Using Python:
 
-This code is persistence and user whenever restart their system you will get your connection back:
+This code is persistence so whenever user restart their system you will get your connection back:
 
 Author:- https://instagram.com/samad_bl0ch
 
