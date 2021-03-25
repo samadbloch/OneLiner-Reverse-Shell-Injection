@@ -9,4 +9,4 @@ Join my TG channel to learn about red teaming: t.me/RedTeamOps007
 
 compile with pyinstaller: pyinstaller shellinjection.py --onefile
 
-only use those one liner shell which doesn't hold CMD, or if you are using powershell one liner and it hold cmd then just add this option in one liner, -W Hidden.
+only use those one liner shell which doesn't hold CMD, or if you are using powershell one liner and it hold cmd then just add this option in one liner, -W Hidden
